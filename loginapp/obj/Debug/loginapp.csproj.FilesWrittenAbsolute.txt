@@ -1,0 +1,17 @@
+/Users/isaac/code/loginapp/loginapp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/isaac/code/loginapp/loginapp/bin/Debug/loginapp.dll.mdb
+/Users/isaac/code/loginapp/loginapp/bin/Debug/loginapp.dll
+/Users/isaac/code/loginapp/loginapp/obj/Debug/loginapp.dll
+/Users/isaac/code/loginapp/loginapp/obj/Debug/loginapp.dll.mdb
+/Users/isaac/code/loginapp/loginapp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/mscorlib.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.Core.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.Linq.Queryable.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.Diagnostics.Tools.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.ComponentModel.EventBasedAsync.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.Net.Primitives.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.Net.Requests.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.Net.NetworkInformation.dll
+/Users/isaac/code/loginapp/loginapp/bin/Debug/System.Text.RegularExpressions.dll
